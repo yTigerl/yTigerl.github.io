@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yang hulin.jpg"
   name             : "Hulin Yang"
   pronouns         : # example: "she/her"  
-  bio              : "I am currently a Ph.D candidate from SUSTech"
+  bio              : "Ph.D candidate from SUSTech"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
