@@ -1,7 +1,7 @@
 ---
 title: "User-Centric Shard Allocation for Industry 5.0"
 collection: publications
-# category: conferences
+category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
