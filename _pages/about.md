@@ -11,6 +11,4 @@ I am currently a Ph.D candidate with the Department of Computer Science and Engi
 
 I am very fortunate to be advised by [Prof. Jin Zhang](https://jinzhang-sustech.github.io/) from the Department of Computer Science and Engineering, Southern University of Science and Technology.
 
-// You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](yanghl2021@mail.sustech.edu.cn)
