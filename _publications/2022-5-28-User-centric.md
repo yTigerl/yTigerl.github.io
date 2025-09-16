@@ -1,13 +1,14 @@
 ---
-title: "User-Centric Shard Allocation for Industry 5.0"
+title: "User-Centric Blockchain for Industry 5.0 Application"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2022-5-28-User-centric
+excerpt: 'This paper proposes a user-centric sharded blockchain that enables generating, verifying, and storing blocks of data related to individual
+users with the aim to satisfy their QoS, security, and privacy requirements.'
+date: 2022-05
+venue: ' IEEE International Conference on Communications Workshops'
+paperurl: 'https://ieeexplore.ieee.org/document/9814562'
+citation: 'H. Yang, A. Asheralieva, J. Zhang, M. M. Karim, D. Niyato and K. A. Raza,. &quot;User-Centric Blockchain for Industry 5.0 Applications,&quot; <i>2022 IEEE International Conference on Communications Workshops</i>, 2022, pp. 25-30.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+We design a user-centric sharded blockchain that enables generating, verifying, and storing blocks of data related to individual users with the aim to satisfy their QoS, security, and privacy requirements. We represent the interactions of users and peers in shards as a Stackelberg game. In the game, the users are allocated to shards by the blockchain system (as a leader) to minimize the block period. The followers (blockchain peers) respond to each user-shard allocation by forming a reputation-based stable shard structure. We propose the algorithm to find the Nash equilibrium that minimizes the block period or, equivalently, maximizes the system throughput.
