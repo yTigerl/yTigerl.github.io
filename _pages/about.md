@@ -29,8 +29,8 @@ Education
 
 Publications
 ======
-- [BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production](https://arxiv.org/abs/2407.08537)
-   **Hulin Yang**, Mingzhe Li, Jin Zhang*, Alia Asheralieva, Qingsong Wei, Siow Mong Rick Goh
+- [BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production](https://arxiv.org/abs/2407.08537)  
+  **Hulin Yang**, Mingzhe Li, Jin Zhang*, Alia Asheralieva, Qingsong Wei, Siow Mong Rick Goh  
   Submitted
 - [User-Centric Blockchain for Industry 5.0 Application](https://ieeexplore.ieee.org/document/9814562)  
   **Hulin Yang**, Alia Asheralieva*, Jin Zhang, Md Monjurul Karim, Dusit Niyato, Khuhawar Arif Raza  
